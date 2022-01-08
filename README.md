@@ -1,4 +1,4 @@
-# :rainbow: To Be Better Javaer，Java 程序员进阶之路 - 通俗易懂、风趣幽默 复制版
+# :rainbow: To Be Better Javaer，Java 程序员进阶之路 - 通俗易懂、风趣幽默
 
 > **作者：** 沉默王二，Java Developer，[:pencil2: 个人博客](https://itwanger.com)，[:books: 计算机经典书单(download)](https://mp.weixin.qq.com/s/qwUtTbfDB36VSwnjMRakqA)
 
@@ -244,37 +244,9 @@
 
     回复关键字「**03**」可以下载《Java 程序员进阶之路》专栏的离线 PDF 版本（暗黑版和亮白版）。
     
-    
-- **star 趋势图**
-
-[![Stargazers over time](https://starchart.cc/itwanger/toBeBetterJavaer.svg)](https://starchart.cc/itwanger/toBeBetterJavaer)
-
-
 
 # :muscle: 参与贡献
 
 1. 如果你对本项目有任何建议或发现文中内容有误的，欢迎提交 issues 进行指正。
 2. 对于文中我没有涉及到知识点，欢迎提交 PR。
 
-
-# :gift: Donate
-
-开源不易，如果《Java 程序员进阶之路》专栏对你有些帮助，可以请二哥喝杯咖啡，算是对开源做出的一点点鼓励吧！
-
-<div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/itwanger/toBeBetterJavaer/images/zhifu.png" width="260px">
-</div>
-
-:gift_heart: 感谢大家对我资金的赞赏，每隔一个月会统计一次。
-
-时间|小伙伴|赞赏金额
----|---|---
-2022-01-01|马伟谊|6.6元
-2022-01-01|刚刚好|3.6元
-2021-12-20|t*1|5 元
-2021-10-26|*鱼|28 元
-2021-10-11|*人|28 元
-2021-09-01|S*n|6.6 元
-2021-08-02|*秒|1 元
-2021-06-13|*7| 28 元
-2021-04-29|pebble|2 元
