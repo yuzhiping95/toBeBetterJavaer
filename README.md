@@ -9,9 +9,9 @@
 
 - 仓库同步：[Github](https://github.com/itwanger/toBeBetterJavaer) | [码云](https://gitee.com/itwanger/toBeBetterJavaer) | [CodeChina](https://codechina.csdn.net/qing_gee/toBeBetterJavaer)
 - [学习说明](#bookmark-学习说明)
-- [章节目录](https://github.com/itwanger/toBeBetterJavaer#pencil-章节目录)
-- [联系作者](https://github.com/itwanger/toBeBetterJavaer#paw_prints-联系作者)
-- [参与贡献](https://github.com/itwanger/toBeBetterJavaer#muscle-参与贡献)
+- [章节目录](#pencil-章节目录)
+- [联系作者](#paw_prints-联系作者)
+- [参与贡献](#muscle-参与贡献)
 
 具体章节可以参照下面这张思维导图（绿色✅的部分是已经更新的）
   
@@ -232,18 +232,7 @@
     
     <div align="left">
         <img src="https://cdn.jsdelivr.net/gh/itwanger/toBeBetterJavaer/images/qing_geee.png" width="260px">
-    </div>
-
-- **原创公众号**
-
-    本号的slogan：技术文通俗易懂，吹水文风趣幽默。<br>目前已有近 10 万读者关注，微信搜索「**沉默王二**」（也可以扫描下方的二维码）就可以关注我了。
-    
-    <div align="left">
-        <img src="https://cdn.jsdelivr.net/gh/itwanger/toBeBetterJavaer/images/gongzhonghao.png" width="260px">
-    </div>
-
-    回复关键字「**03**」可以下载《Java 程序员进阶之路》专栏的离线 PDF 版本（暗黑版和亮白版）。
-    
+    </div>    
 
 # :muscle: 参与贡献
 
